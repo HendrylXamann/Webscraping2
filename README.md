@@ -22,4 +22,4 @@ obs: Dentro do laço tem um try except que está ali para identificar linhas que
 
 Vídeo da aplicação sendo executada:<br>
 Youtube: https://youtu.be/Rv83bVlCQoY<br>
-Linkedin: 
+Linkedin: https://www.linkedin.com/posts/hendryl-roberto-44885a1b3_python-selenium-automaaexaetocomercial-activity-7084583461113446400-Afo0?utm_source=share&utm_medium=member_desktop
