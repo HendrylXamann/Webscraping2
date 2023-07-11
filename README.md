@@ -1,6 +1,6 @@
 # Webscraping2
 Automação de Webscraping para Demandas Internas da Empresa 2
-Este projeto foi desenvolvido para atender a uma demanda interna da empresa em que trabalho. Esta aplicação é difere da anterior pois além de ser em um sistema diferente ele também tem uma interface e faz o login sozinho. Ele consulta se o cliente está aprovado ou reprovado.
+Este projeto foi desenvolvido para atender a uma demanda interna da empresa onde trabalho. Esta aplicação difere da anterior, pois, além de ser em um sistema diferente, ela também possui uma interface e realiza o login automaticamente. Ela consulta se o cliente está aprovado ou reprovado.
 
 Funcionalidades:
 •	A aplicação abre a interface solicitando dados de login, senha e token de autenticação.
@@ -20,3 +20,6 @@ O código está organizado da seguinte forma:
 7.	Utilização de laços de repetição para realizar o processo de automação em loop.
 obs: Dentro do laço tem um try except que está ali para identificar linhas que não são localizadas no sistema.
 
+Vídeo da aplicação sendo executada:
+Youtube: https://youtu.be/Rv83bVlCQoY
+Linkedin: 
